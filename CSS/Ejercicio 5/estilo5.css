@@ -9,3 +9,10 @@ Realizar una web formada por:
 • Debajo de él, dos noticias con la estructura anterior.
 Diseñar una hoja de estilos para que los títulos de las noticia salgan en azul y los
 pies de foto en rojo. */
+
+h1{
+    color:blue;
+}
+.pie{
+    color:red;
+}
