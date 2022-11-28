@@ -4,3 +4,24 @@ establecidos los márgenes a 0 píxeles, el segundo a 5px y el tercero a 0px. Un
 vistos los resultados, agregarle al elemento body un margen de 0px y analizar su
 efecto. Añadirle, posteriormente, al primer párrafo un relleno de 0px, al segundo de
 5px y al tercero de 20px. Volver a analizar los resultados. */
+
+#p1{
+border: 5px solid;
+margin: 0px;
+padding: 0px;
+background-color: aliceblue;
+}
+
+#p2{
+border: 5px solid;
+margin: 5px;
+padding: 5px;
+background-color: rgb(77, 104, 128);
+}
+
+#p3{
+border: 5px solid;
+margin: 0px;
+padding: 20px;
+background-color: rgb(14, 126, 19);
+}
