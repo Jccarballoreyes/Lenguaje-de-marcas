@@ -8,3 +8,24 @@ defecto.
 • La tercera capa debe tener un cuarto de la anchura de la página, un borde azul y
 el texto un 20% más pequeño que el tamaño de la letra M establecido por
 defecto. */
+
+#capa1{
+    border-style: solid;
+    border-color: black;
+    width: 50%;
+    font-size: 1em;
+}
+
+#capa2{
+    border-style: solid;
+    border-color: red;
+    width: 30%;
+    font-size: 1.2em;
+}
+
+#capa3{
+    border-style: solid;
+    border-color: blue;
+    width: 25%;
+    font-size: 0.8em;
+}
