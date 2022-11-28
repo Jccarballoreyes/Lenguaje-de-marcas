@@ -4,3 +4,48 @@ izquierda del triple de anchura que la de la derecha. Debajo debe ir una capa pi
 anchura total de la página, donde aparezca información sobre el autor de la página.
 Aplicar la maqueta para desarrollar algún ejemplo con contenidos de vuestra
 invención. (Poner colores de fondo a las capas para apreciar la maquetación) */
+
+#cabecera{
+    position: absolute;
+    width: 100%;
+    background-color: forestgreen;
+    border-style: solid;
+    text-align: center;
+}
+
+#colizq{
+    position: absolute;
+    width: 70%;
+    border-style: solid;
+    top:19%;
+    background-color:azure ;
+    height: 59.3%;
+    padding:1em;
+}
+
+#colderecha{
+    position: absolute;
+    right:1%;
+    top:19%;
+    width: 20%;
+    border-style: solid;
+    height: 59.3%;
+    background-color:azure ;
+    padding:1em;
+}
+
+#pie{
+    position: absolute;
+    bottom: 0px;
+    background-color: antiquewhite;
+    width: 100%;
+    text-align: center;
+}
+
+#h1{
+    float: left;
+}
+
+#imagen{
+    float: right;
+}
