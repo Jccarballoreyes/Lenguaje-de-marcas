@@ -2,3 +2,38 @@
 interlineado, estilo, tamaño y fuente de letra distintos. Además, en el primero el
 texto debe estar alineado a la izquierda, en el segundo a la derecha y en el tercero al
 centro. Todos deben tener la primera letra capital y la primera línea indentada. */
+
+#p1{
+
+    text-align: left;
+    text-indent: 50px;
+    font-family: verdana;
+    font-style: normal;
+    font-size: 23px;
+    line-height: 200%;
+    font-weight: 200px;
+}
+
+#p2{
+
+    text-align: right;
+    text-indent: 33px;
+    font-family: georgia;
+    font-style: italic;
+    font-size: 18px;
+    line-height: 125%;
+    font-weight: 100px;    
+
+}
+
+#p3{
+    
+    text-align: center;
+    text-indent: 15px;
+    font-family: courier;
+    font-style: oblique;
+    font-size: 13px;
+    line-height: 50%;
+    font-weight: 50px;
+
+}
