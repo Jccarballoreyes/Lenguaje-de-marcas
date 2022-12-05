@@ -9,3 +9,19 @@ Esta misma página será enlazada desde el primer elemento del menú. El segundo
 elemento, por su parte, enlazará con una página de igual cabecera y menú, en cuyo
 cuerpo aparecerán contenidos del Barcelona FC (texto e imágenes). El tercer enlace
 se hará a una página similar a la del segundo enlace con contenidos del Real Madrid. */
+
+#cabecera{
+    position: absolute;
+    width: 100%;
+    border: 1px solid;
+    background-color: aliceblue;
+}
+
+#menu{
+    position: absolute;
+    background-color: rgb(147, 132, 160);
+    width: 20%;
+    height: 15%;
+    float: left;
+    top: 10%;
+}
