@@ -6,3 +6,24 @@ suyas. Estas medidas estarán expresadas en porcentajes.
 • Modificar el código para expresar el tamaño en pixeles, siendo el de la capa
 mayor de 400x400 y el tamaño de la ventana.
 • Seleccionar una resolución diferente para el monitor. */
+
+#capa1{
+background-color: brown;
+width: 50%;
+font-size: 3.9px;
+}
+
+#capa2{
+background-color: aquamarine;
+width: 50%;
+}
+
+#capa3{
+background-color: antiquewhite;
+width: 50%;
+}
+
+#capa4{
+background-color: rgb(129, 112, 112);
+width: 50%;
+}
