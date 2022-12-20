@@ -3,3 +3,11 @@ de, al menos, dos líneas. La primera lista debe ser ordenada con números roman
 en minúscula y con todo el texto indentado después de la viñeta. La segunda lista
 debe presentar viñetas que sean imágenes pequeñas (caras de princesas Disney) y el
 texto, a partir de la segunda línea, debe ir debajo de la viñeta. */
+
+#cabecera{
+    position: absolute;
+    width: 100%;
+    border: 1px solid;
+    background-color: aliceblue;
+
+}
