@@ -3,3 +3,24 @@ posicionamiento de los controles y estilos para dar al formulario un diseño vis
 Probar la pseudoclase focus en un campo de texto. ¿Funciona en Explorer 7? ¿Y en
 Firefox 3.6?. Añadir lo necesario para que cuando el cursor esté sobre el formulario
 cambie la apariencia del icono a otro distinto al usual. */
+
+
+#capa1{
+    float: left;
+    width: 40%;
+}
+
+#capa2{
+    float: left;
+    clear: both;
+}
+
+#capa3{
+    float: right;
+    width: 50%;;
+}
+
+#sugerencia{
+    float: right;
+    clear: both;
+}
