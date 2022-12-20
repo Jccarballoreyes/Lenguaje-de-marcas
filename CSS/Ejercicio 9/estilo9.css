@@ -18,7 +18,7 @@ invención. (Poner colores de fondo a las capas para apreciar la maquetación) *
     width: 70%;
     border-style: solid;
     top:19%;
-    background-color:azure ;
+    background-color:rgb(181, 212, 212) ;
     height: 59.3%;
     padding:1em;
 }
@@ -30,14 +30,14 @@ invención. (Poner colores de fondo a las capas para apreciar la maquetación) *
     width: 20%;
     border-style: solid;
     height: 59.3%;
-    background-color:azure ;
+    background-color:rgb(181, 212, 212) ;
     padding:1em;
 }
 
 #pie{
     position: absolute;
     bottom: 0px;
-    background-color: antiquewhite;
+    background-color: rgb(197, 175, 146);
     width: 100%;
     text-align: center;
 }
