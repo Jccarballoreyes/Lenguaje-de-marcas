@@ -3,3 +3,47 @@ la izquierda y que contenga una barra de navegación (menú de enlaces) de cuatr
 elementos en vertical a cuatro buscadores. La barra de navegación debe tener una
 apariencia de botones con color de fondo, borde, etc. Los enlaces deben presentar un
 aspecto diferente en función del estado del enlace: sin visitar, visitado, activo... */
+
+#cabecera {
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+#buscadores {
+    background-color: grey;
+    float: left;
+    width: 20%;
+    padding-right: 1em;
+    padding-left: 1em;
+    margin-right: 1em;
+    margin-top: 1em;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
+
+div p {
+    background-color: white;
+    border: 1px solid black;
+    padding: 0.4em;
+}
+
+div p a {
+    color: blue;
+    text-decoration: none;
+}
