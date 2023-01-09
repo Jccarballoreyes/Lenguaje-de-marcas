@@ -24,7 +24,7 @@ p{
 }
 #p6{
     border-style: solid;
-    border-color:black;
+    border-color:black; 
     color: blue;
     background-color: yellow;
     font-size: 2em;
